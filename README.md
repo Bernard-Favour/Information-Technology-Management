@@ -91,7 +91,7 @@ I use GitHub to practice version control, document my projects, organize my acad
 
 ## 📫 Connect With Me
 
-**GitHub:** [Your GitHub Username]
+**GitHub:** [Adjonyoh Bernard Kabutey]
 
 ---
 
