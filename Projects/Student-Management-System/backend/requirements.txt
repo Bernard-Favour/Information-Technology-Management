@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+psycopg[binary]
+
+#Flask
+
+#Allows Python to act as your web server/API.
+
+#Flask-Cors
+
+#Allows your frontend and backend to communicate when they're running on different local ports.
